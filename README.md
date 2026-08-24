@@ -8,7 +8,7 @@ Genera una grilla de 10x10, ubica "casas" en el tablero de forma fija según una
 ## Integrantes
 
 - Santiago Nicolas Barrionuevo Navarro
-- Martin Carabajal
+- Martin Caravajal
 - Maximiliano Torres
 - Jose Pepi
 - Florencia Moyano
